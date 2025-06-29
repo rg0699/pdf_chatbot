@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb==0.4.22
+sentence-transformers
+python-multipart
+llama-cpp-python
